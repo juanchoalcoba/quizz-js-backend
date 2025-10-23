@@ -133,7 +133,7 @@ backend/
 ---
 
 
-✅ Buenas Prácticas Implementadas
+# ✅ Buenas Prácticas Implementadas
 
 Validación de datos de entrada con Zod.
 
@@ -147,7 +147,7 @@ Uso de TypeScript para reducir errores de tipado.
 
 Código modular y escalable, listo para agregar más funcionalidades (categorías, niveles, rankings, etc.).
 
-📌 Notas
+## 📌 Notas
 
 Este backend es independiente y puede integrarse con cualquier frontend moderno.
 
