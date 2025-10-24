@@ -8,7 +8,7 @@ import { sendVerificationEmail } from '../utils/mail';
 
 const TOKEN_EXPIRATION_MIN = 60; // 1 hora
 const FRONTEND_URL = 'http://localhost:5173'; // React frontend
-const JWT_SECRET = 'replace_this_secret'; // Cambia por tu secreto real
+const JWT_SECRET = 'secret'; // Cambia por tu secreto real
 
 // -------------------------
 // Registro de usuario

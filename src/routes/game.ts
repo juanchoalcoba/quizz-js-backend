@@ -12,4 +12,6 @@ router.post('/', authMiddleware, saveGameSession);
 // Trae la última partida guardada de un usuario
 router.get('/last', authMiddleware, getLastSession);
 
+
+
 export default router;
